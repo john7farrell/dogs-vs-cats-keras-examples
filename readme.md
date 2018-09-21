@@ -12,23 +12,23 @@
         - *.ipynb
 
 ## Prepare evaluation datasets (train/valid/test)
-- https://www.kaggle.com/johnfarrell/dvc-prepare-evalset
+- **Source**: https://www.kaggle.com/johnfarrell/dvc-prepare-evalset
 - KFold(small, used here)
 - stratified(didn't use)
 - random 5% split(large, didn't use)
 ## Preprocessing
-- https://www.kaggle.com/johnfarrell/dvc-preprocessing
+- **Source**: https://www.kaggle.com/johnfarrell/dvc-preprocessing
 - [keras.preprocessing.image.ImageDataGenerator][1]
 ## Basic CNN
 - https://www.kaggle.com/johnfarrell/dvc-basic-model
 - Augmentation: ImageDataGenerator
 - [Simple CNN model][2] (arranged with [Model class with functional API][3])
 ## Pretrained Model Feature Extraction
-- https://www.kaggle.com/johnfarrell/dvc-pretrained-model-feature-extract
+- **Source**: https://www.kaggle.com/johnfarrell/dvc-pretrained-model-feature-extract
 ## Pretrained Model Fine-tune
-- https://www.kaggle.com/johnfarrell/dvc-pretrained-model-finetune
+- **Source**: https://www.kaggle.com/johnfarrell/dvc-pretrained-model-finetune
 ## More Tricks
-- https://www.kaggle.com/johnfarrell/dvc-advanced-model
+- **Source**: https://www.kaggle.com/johnfarrell/dvc-advanced-model
 - Custom image generator(based on image filepath)
 - [Snapshot Ensemble][4] with [Cyclic Learning Rate][5]
 - [Test-Time Augmentation][6]
