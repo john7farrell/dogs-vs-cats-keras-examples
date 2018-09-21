@@ -6,8 +6,8 @@
 - Completed visualizations/results are in url
 - directory
     - input
-        - dogs-vs-cats-redux-kernels-edition/[raw_data_folders]
-        - dvc-prepare-evalset
+        - [dogs-vs-cats-redux-kernels-edition][9]/'raw_data_folders'
+        - [dvc-prepare-evalset][8]
         - [keras-pretrained-models][7]
     - notebook_sources
         - *.ipynb
@@ -41,3 +41,5 @@
 [5]:https://www.jeremyjordan.me/nn-learning-rate/
 [6]:https://towardsdatascience.com/augmentation-for-image-classification-24ffcbc38833
 [7]:https://www.kaggle.com/gaborfodor/keras-pretrained-models
+[8]:https://www.kaggle.com/johnfarrell/dvc-prepare-evalset
+[9]:https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data
