@@ -8,6 +8,7 @@
     - input
         - dogs-vs-cats-redux-kernels-edition/[raw_data_folders]
         - dvc-prepare-evalset
+        - [keras-pretrained-models][7]
     - notebook_sources
         - *.ipynb
 
@@ -39,3 +40,4 @@
 [4]:https://github.com/titu1994/Snapshot-Ensembles
 [5]:https://www.jeremyjordan.me/nn-learning-rate/
 [6]:https://towardsdatascience.com/augmentation-for-image-classification-24ffcbc38833
+[7]:https://www.kaggle.com/gaborfodor/keras-pretrained-models
