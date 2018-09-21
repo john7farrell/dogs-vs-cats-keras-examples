@@ -20,7 +20,7 @@
 - **Source**: https://www.kaggle.com/johnfarrell/dvc-preprocessing
 - [keras.preprocessing.image.ImageDataGenerator][1]
 ## Basic CNN
-- https://www.kaggle.com/johnfarrell/dvc-basic-model
+- **Source**: https://www.kaggle.com/johnfarrell/dvc-basic-model
 - Augmentation: ImageDataGenerator
 - [Simple CNN model][2] (arranged with [Model class with functional API][3])
 ## Pretrained Model Feature Extraction
